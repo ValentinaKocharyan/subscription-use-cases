@@ -3,6 +3,9 @@
 .vscode
 .byebug_history
 
+**/Debug/**
+**/project-cache/**
+
 # Dependencies
 node_modules
 package-lock.json
